@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Branding Colors -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_variant">#4F46E5</color>
+    <color name="secondary">#10B981</color>
+    <color name="error">#EF4444</color>
+
+    <!-- Light but "Dull" Palette (No pure white) -->
+    <color name="light_bg">#E5E7EB</color>
+    <color name="light_surface">#D1D5DB</color>
+    <color name="light_on_bg">#1F2937</color>
+    <color name="light_text_sec">#4B5563</color>
+
+    <!-- Dark Dull Palette -->
+    <color name="dark_bg">#0F172A</color>
+    <color name="dark_surface">#1E293B</color>
+    <color name="dark_on_bg">#F8FAFC</color>
+    <color name="dark_text_sec">#94A3B8</color>
+
+    <!-- Static Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
